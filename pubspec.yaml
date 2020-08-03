@@ -1,8 +1,8 @@
 name: smyxalipaykit
 description: A new Flutter plugin.
 version: 0.0.1
-author: smyxcoding <itchangelives@gmail.com>
-homepage:
+author: smyxcoding <itchangelives@126.com>
+homepage: https://github.com/smyxcoding/smyx_alipay_kit.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
